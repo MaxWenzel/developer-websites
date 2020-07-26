@@ -3,26 +3,36 @@ Useful websites for developers
 
 ## Web-Development
 
-netlify .com
-// Free hosting
-
-freepik .com
-// Free images, icons, illustrations...
-
- fontawesome .com
-// The most popular icon set
-
-gtmetrix .com
-// Analize the loading speed
-
-resume .com
-// Free resume builder
-
 - [Netlify](netlify .com): free hosting
 - [freepik](freepik .com): Free images, icons, illustrations
 - [fontawesome](fontawesome .com): the most popular icon se
 - [GTmetrix](gtmetrix .com): analize the loading speed
-- [Resume](resume .com): free resume builder
+- [JSON Web Tokens](https://jwt.io/): allows you to decode, verify and generate JWT
+- [JSON Formatter](https://jsonformatter.org/): JSON formatting
+
+## Study
+
+- [freeCodeCamp](https://www.freecodecamp.org/): learn to code at home
+- [Udacity](https://www.udacity.com/): online university
+- [coursera](https://www.coursera.org/): build skills with courses, certificates, and degrees online from world-class universities and companies
+- [Udemy](https://www.udemy.com/): online learning
+- [edX](https://www.edx.org/): online courses
+- [openHPI](https://open.hpi.de/): Hasso-Plattner-Institut
 - []():
 - []():
+- []():
+- []():
+- []():
+- []():
+
+
+## Images
+
+- [Unsplash](https://unsplash.com/): the internet’s source of freely-usable images.
+- [pixabay](https://pixabay.com/): free images 
+- [Pexels](https://www.pexels.com/): free images
+- []():
+- []():
+- []():
+
 
