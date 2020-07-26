@@ -21,8 +21,8 @@ Useful websites for developers
 - [openHPI](https://open.hpi.de/): Hasso-Plattner-Institut
 - [w3schools](https://www.w3schools.com/): web developer site
 - [css-tricks](https://css-tricks.com/): learn css
-- []():
-- []():
+- [Baeldung](https://www.baeldung.com/): Java online courses
+- [Vlad Mihalcea](https://vladmihalcea.com/): JPA
 - []():
 - []():
 
