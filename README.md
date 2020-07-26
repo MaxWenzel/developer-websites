@@ -3,10 +3,10 @@ Useful websites for developers
 
 ## Web-Development
 
-- [Netlify](netlify .com): free hosting
-- [freepik](freepik .com): Free images, icons, illustrations
-- [fontawesome](fontawesome .com): the most popular icon se
-- [GTmetrix](gtmetrix .com): analize the loading speed
+- [Netlify](netlify.com): free hosting
+- [freepik](freepik.com): Free images, icons, illustrations
+- [fontawesome](fontawesome.com): the most popular icon se
+- [GTmetrix](gtmetrix.com): analize the loading speed
 - [JSON Web Tokens](https://jwt.io/): allows you to decode, verify and generate JWT
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
