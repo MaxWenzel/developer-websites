@@ -9,6 +9,7 @@ Useful websites for developers
 - [GTmetrix](gtmetrix .com): analize the loading speed
 - [JSON Web Tokens](https://jwt.io/): allows you to decode, verify and generate JWT
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
+- [codepen](https://codepen.io/): discover and test code
 
 ## Study
 
@@ -18,8 +19,8 @@ Useful websites for developers
 - [Udemy](https://www.udemy.com/): online learning
 - [edX](https://www.edx.org/): online courses
 - [openHPI](https://open.hpi.de/): Hasso-Plattner-Institut
-- []():
-- []():
+- [w3schools](https://www.w3schools.com/): web developer site
+- [css-tricks](https://css-tricks.com/): learn css
 - []():
 - []():
 - []():
