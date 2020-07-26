@@ -18,11 +18,11 @@ gtmetrix .com
 resume .com
 // Free resume builder
 
-- [](netlify .com):
-- []():
-- []():
-- []():
-- []():
+- [Netlify](netlify .com): free hosting
+- [freepik](freepik .com): Free images, icons, illustrations
+- [fontawesome](fontawesome .com): the most popular icon se
+- [GTmetrix](gtmetrix .com): analize the loading speed
+- [Resume](resume .com): free resume builder
 - []():
 - []():
 
