@@ -6,10 +6,18 @@ Useful websites for developers
 - [Netlify](netlify.com): free hosting
 - [freepik](freepik.com): Free images, icons, illustrations
 - [fontawesome](fontawesome.com): the most popular icon se
-- [GTmetrix](gtmetrix.com): analize the loading speed
 - [JSON Web Tokens](https://jwt.io/): allows you to decode, verify and generate JWT
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
+
+## Site Check
+
+- [Lighthouse](https://web.dev/measure/): see how well your website performs. Then, get tips to improve your user experience 
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights): make your web pages fast on all devices
+- [GTmetrix](gtmetrix.com): analize the loading speed
+- [WebpageTest](https://www.webpagetest.org/): run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds
+- []():
+- []():
 
 ## Study
 
