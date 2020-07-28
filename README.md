@@ -46,4 +46,12 @@ Useful websites for developers
 
 ## Blogs and more
 
+### Books
+
 - [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
+- [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
+
+## Fun
+
+- [Coding love](https://thecodinglove.com/)
+- [Dilbert](https://dilbert.com/)
