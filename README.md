@@ -44,4 +44,6 @@ Useful websites for developers
 - []():
 - []():
 
+## Blogs and more
 
+- [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
