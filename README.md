@@ -25,6 +25,7 @@ Useful websites for developers
 - [Udacity](https://www.udacity.com/): online university
 - [coursera](https://www.coursera.org/): build skills with courses, certificates, and degrees online from world-class universities and companies
 - [Udemy](https://www.udemy.com/): online learning
+- [](https://www.pluralsight.com/): online learning
 - [edX](https://www.edx.org/): online courses
 - [openHPI](https://open.hpi.de/): Hasso-Plattner-Institut
 - [w3schools](https://www.w3schools.com/): web developer site
@@ -58,6 +59,7 @@ Useful websites for developers
 
 - [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
 - [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
+- [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
 
 ## Fun
 
