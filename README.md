@@ -32,8 +32,16 @@ Useful websites for developers
 - [Baeldung](https://www.baeldung.com/): Java online courses
 - [Vlad Mihalcea](https://vladmihalcea.com/): JPA
 - [Mozilla Developer Network ](https://developer.mozilla.org/en-US/docs/Learn): learn web development
-- []():
+- [Codecademy](https://www.codecademy.com/): learning to Code
+- [KataCoda](https://www.katacoda.com/): learning new technologies using real environments right in your browser
+- [Learning Git](https://learngitbranching.js.org/): the most visual and interactive way to learn Git on the web
 
+## Cheat 
+
+- [Python CheatSHeet](https://github.com/gto76/python-cheatsheet): a comprehensive Python Cheatsheet
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
+- []():
+- []():
 
 ## Images
 
