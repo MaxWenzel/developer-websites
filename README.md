@@ -40,7 +40,6 @@ Useful websites for developers
 ## Cheat 
 
 - [Python CheatSHeet](https://github.com/gto76/python-cheatsheet): a comprehensive Python Cheatsheet
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 - [Git Interactive](https://ndpsoftware.com/git-cheatsheet.html):
 - []():
 
@@ -65,3 +64,13 @@ Useful websites for developers
 
 - [Coding love](https://thecodinglove.com/)
 - [Dilbert](https://dilbert.com/)
+
+## For Java developers
+
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
+- [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
+- [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
+- []():
+- []():
+- []():
+- []():
