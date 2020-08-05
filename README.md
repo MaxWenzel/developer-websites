@@ -25,7 +25,7 @@ Useful websites for developers
 - [Udacity](https://www.udacity.com/): online university
 - [coursera](https://www.coursera.org/): build skills with courses, certificates, and degrees online from world-class universities and companies
 - [Udemy](https://www.udemy.com/): online learning
-- [](https://www.pluralsight.com/): online learning
+- [PluralSight](https://www.pluralsight.com/): online learning
 - [edX](https://www.edx.org/): online courses
 - [openHPI](https://open.hpi.de/): Hasso-Plattner-Institut
 - [w3schools](https://www.w3schools.com/): web developer site
@@ -36,6 +36,11 @@ Useful websites for developers
 - [Codecademy](https://www.codecademy.com/): learning to Code
 - [KataCoda](https://www.katacoda.com/): learning new technologies using real environments right in your browser
 - [Learning Git](https://learngitbranching.js.org/): the most visual and interactive way to learn Git on the web
+
+- CodingAbbey
+- CodingBat
+- [JetBrains Academy](https://www.jetbrains.com/academy/): learn to Program by creating working applications
+- [TestAutomation University](https://testautomationu.applitools.com/): learning test automation
 
 ## Cheat 
 
