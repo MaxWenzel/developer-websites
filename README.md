@@ -76,7 +76,10 @@ Useful websites for developers
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
 - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
-- []():
-- []():
+
+## Tutorials
+
+- [How to Make a Markdown Blog With Next.js](https://dev.to/joserfelix/how-to-make-a-static-blog-with-next-js-2bd6)
+- [Building a Markdown blog with Next 9.4 and Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/):
 - []():
 - []():
