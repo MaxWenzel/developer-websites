@@ -109,3 +109,8 @@ Useful websites for developers
 - [Building a Markdown blog with Next 9.4 and Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/):
 - []():
 - []():
+
+## Search
+
+- [Ecosia](https://www.ecosia.org/): by searching with Ecosia, you're not only reforesting our planet, 
+- [DuckDuckGo](https://duckduckgo.com/): get seamless privacy protection on your browser for free
