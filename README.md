@@ -45,7 +45,7 @@ Useful websites for developers
 - []():
 - []():
 
-## Study
+## Study & Tutorials
 
 - [freeCodeCamp](https://www.freecodecamp.org/): learn to code at home
 - [Udacity](https://www.udacity.com/): online university
@@ -85,12 +85,30 @@ Useful websites for developers
 
 ## Blogs and more
 
+### Java Stuff
+
+- [InfoQ](https://www.infoq.com/): curated and peer-reviewed content covering innovation in professional software development.
+- [DZone](https://dzone.com/): Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts.
+- [JavaRevisited](https://javarevisited.blogspot.com/): Blog about Java, Programming, Spring, Hibernate, Interview Questions, Books and Online Course Recommendations from Udemy, Pluralsight, ..
+- [JpurnalDev](https://www.journaldev.com/): Java, Java EE, Android, Python, Web Development Tutorials.
+- [Java Code Geeks](https://www.javacodegeeks.com/): an independent online community focused on creating the ultimate Java to Java developers resource center.
+- [Inside Java](https://inside.java/): News and views from the Java team at Oracle
+- []():
+
+
 ### Books
 
 - [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
 - [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
 - [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
 - [The outstanding developer](https://theoutstanding.dev/): boost your soft skills to become a better developer
+
+### Free eBooks
+
+- [Kong](https://konghq.com/resources/)
+- [NginX](https://www.nginx.com/resources/library/)
+- [O'Reilly](https://www.oreilly.com/free/)
+- []():
 
 ## Fun
 
