@@ -10,6 +10,23 @@ Useful websites for developers
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
 
+## TechRadar
+
+- [Zalando](https://opensource.zalando.com/tech-radar/)
+- [ThoughtWorks](https://www.thoughtworks.com/radar)
+
+## Best Practice
+
+- [Google Best Practices for Java Libraries](https://jlbp.dev/)
+- [Microsoft API Design](https://docs.microsoft.com/azure/architecture/microservices/design/api-design)
+
+## Validation
+
+- [Regex 101](https://regex101.com/): online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript
+- [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts
+
+
+
 ## Architcture & More
 
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
