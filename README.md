@@ -26,8 +26,7 @@ Useful websites for developers
 - [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts
 
 
-
-## Architcture & More
+## Architecture & More
 
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
