@@ -10,6 +10,16 @@ Useful websites for developers
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
 
+## Architcture & More
+
+- [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
+- [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
+- []():
+- []():
+- []():
+- []():
+- []():
+
 ## Site Check
 
 - [Lighthouse](https://web.dev/measure/): see how well your website performs. Then, get tips to improve your user experience 
