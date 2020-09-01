@@ -95,6 +95,10 @@ Useful websites for developers
 - [Inside Java](https://inside.java/): News and views from the Java team at Oracle
 - []():
 
+### Misc
+
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
 
 ### Books
 
