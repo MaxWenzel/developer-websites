@@ -30,7 +30,7 @@ Useful websites for developers
 
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
-- []():
+- [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
 - []():
 - []():
 - []():
@@ -98,20 +98,7 @@ Useful websites for developers
 
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
-
-### Books
-
-- [SERVERLESS HANDBOOK](https://serverlesshandbook.dev/): a resource teaching frontend engineers everything they need to know to dive into backend
-- [Hands-on Scala Programming](https://www.handsonscala.com/): Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion
-- [Git Book](https://git-scm.com/book/en/v2): the entire Pro Git book
-- [The outstanding developer](https://theoutstanding.dev/): boost your soft skills to become a better developer
-
-### Free eBooks
-
-- [Kong](https://konghq.com/resources/)
-- [NginX](https://www.nginx.com/resources/library/)
-- [O'Reilly](https://www.oreilly.com/free/)
-- []():
+- [Martin Fowler](https://martinfowler.com/bliki/): Must-read blog
 
 ## Fun
 
