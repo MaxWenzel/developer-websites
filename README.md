@@ -10,6 +10,12 @@ Useful websites for developers
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
 
+## Security
+
+- [Common Waekness Enumeration](https://cwe.mitre.org/index.html): a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.
+- [OWASP](https://owasp.org/): a nonprofit foundation that works to improve the security of software.
+- []():
+
 ## TechRadar
 
 - [Zalando](https://opensource.zalando.com/tech-radar/)
@@ -26,7 +32,7 @@ Useful websites for developers
 - [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts
 
 
-## Architecture & More
+## Architecture & More 
 
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
@@ -70,8 +76,8 @@ Useful websites for developers
 ## Cheat 
 
 - [Python CheatSHeet](https://github.com/gto76/python-cheatsheet): a comprehensive Python Cheatsheet
-- [Git Interactive](https://ndpsoftware.com/git-cheatsheet.html):
-- []():
+- [Git Interactive](https://ndpsoftware.com/git-cheatsheet.html)
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Images
 
