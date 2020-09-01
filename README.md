@@ -10,6 +10,15 @@ Useful websites for developers
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
 
+## Open API
+
+- [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): hosts critical components of the global technology infrastructure.
+- [OpenTelemetry](https://opentelemetry.io/): provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools.
+- [OpenAPI](https://www.openapis.org/): a broadly adopted industry standard for describing modern APIs
+- [OpenMetrics](https://openmetrics.io/): an effort to create an open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers.
+- [OpenEBS](https://openebs.io/): OpenEBS builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. 
+
+
 ## Security
 
 - [Common Waekness Enumeration](https://cwe.mitre.org/index.html): a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.
