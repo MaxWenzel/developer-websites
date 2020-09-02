@@ -113,6 +113,7 @@ Useful websites for developers
 
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
+- [Josh Long](https://joshlong.com/): Spring Advocate
 - [Martin Fowler](https://martinfowler.com/bliki/): Must-read blog
 
 ## Fun
