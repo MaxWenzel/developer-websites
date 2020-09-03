@@ -13,6 +13,7 @@ Useful websites for developers
 ## Open API
 
 - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): hosts critical components of the global technology infrastructure.
+- [CNCF Landscape](https://landscape.cncf.io/format=card-mode): CNCF's recommended path through the cloud native landscape. 
 - [OpenTelemetry](https://opentelemetry.io/): provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools.
 - [OpenAPI](https://www.openapis.org/): a broadly adopted industry standard for describing modern APIs
 - [OpenMetrics](https://openmetrics.io/): an effort to create an open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers.
