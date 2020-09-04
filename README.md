@@ -116,6 +116,7 @@ Useful websites for developers
 - [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
 - [Josh Long](https://joshlong.com/): Spring Advocate
 - [Martin Fowler](https://martinfowler.com/bliki/): Must-read blog
+- [Dev.to](https://dev.to/): A constructive and inclusive social network. Open source and radically transparent.
 
 ## Fun
 
