@@ -47,10 +47,7 @@ Useful websites for developers
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
-- []():
-- []():
-- []():
-- []():
+
 
 ## Site Check
 
@@ -58,8 +55,6 @@ Useful websites for developers
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights): make your web pages fast on all devices
 - [GTmetrix](gtmetrix.com): analize the loading speed
 - [WebpageTest](https://www.webpagetest.org/): run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds
-- []():
-- []():
 
 ## Study & Tutorials
 
@@ -94,9 +89,6 @@ Useful websites for developers
 - [Unsplash](https://unsplash.com/): the internet’s source of freely-usable images.
 - [pixabay](https://pixabay.com/): free images 
 - [Pexels](https://www.pexels.com/): free images
-- []():
-- []():
-- []():
 
 ## Blogs and more
 
@@ -108,7 +100,7 @@ Useful websites for developers
 - [JpurnalDev](https://www.journaldev.com/): Java, Java EE, Android, Python, Web Development Tutorials.
 - [Java Code Geeks](https://www.javacodegeeks.com/): an independent online community focused on creating the ultimate Java to Java developers resource center.
 - [Inside Java](https://inside.java/): News and views from the Java team at Oracle
-- []():
+
 
 ### Misc
 
@@ -128,13 +120,12 @@ Useful websites for developers
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
 - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
+- [Awesome-Spring](https://github.com/ThomasVitale/awesome-spring): a curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
 
 ## Tutorials
 
 - [How to Make a Markdown Blog With Next.js](https://dev.to/joserfelix/how-to-make-a-static-blog-with-next-js-2bd6)
 - [Building a Markdown blog with Next 9.4 and Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/):
-- []():
-- []():
 
 ## Search
 
