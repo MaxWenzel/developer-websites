@@ -125,6 +125,7 @@ Useful websites for developers
 ## For Java developers
 
 - [Java Design Patterns](https://java-design-patterns.com/): Design patterns implemented in Java
+- [Design Patterns](https://sourcemaking.com/): design patterns and anti patterns
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
 - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
 - [Awesome-Spring](https://github.com/ThomasVitale/awesome-spring): a curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
