@@ -44,6 +44,8 @@ Useful websites for developers
 
 ## Architecture & More 
 
+- [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
