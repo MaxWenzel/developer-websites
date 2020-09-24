@@ -80,6 +80,10 @@ Useful websites for developers
 - [JetBrains Academy](https://www.jetbrains.com/academy/): learn to Program by creating working applications
 - [TestAutomation University](https://testautomationu.applitools.com/): learning test automation
 
+### Courses
+
+- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
+
 ## AI Trainingsdata
 
 - [Kaggle](https://www.kaggle.com/): code & data you need to do your data science work. 
