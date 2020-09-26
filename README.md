@@ -102,6 +102,7 @@ Useful websites for developers
 - [Unsplash](https://unsplash.com/): the internet’s source of freely-usable images.
 - [pixabay](https://pixabay.com/): free images 
 - [Pexels](https://www.pexels.com/): free images
+- [Font awesome](https://fontawesome.com/): Get vector icons and social logos on your website
 
 ## Blogs and more
 
