@@ -146,3 +146,7 @@ Useful websites for developers
 
 - [Ecosia](https://www.ecosia.org/): by searching with Ecosia, you're not only reforesting our planet, 
 - [DuckDuckGo](https://duckduckgo.com/): get seamless privacy protection on your browser for free
+
+## Podcasts
+
+- [Programming-Love](https://programming.love/): Lovely Podcast About Programming
