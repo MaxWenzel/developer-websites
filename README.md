@@ -80,17 +80,6 @@ Useful websites for developers
 - [JetBrains Academy](https://www.jetbrains.com/academy/): learn to Program by creating working applications
 - [TestAutomation University](https://testautomationu.applitools.com/): learning test automation
 
-### Courses
-
-- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
-
-## AI Trainingsdata
-
-- [Kaggle](https://www.kaggle.com/): code & data you need to do your data science work. 
-- [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images): the largest open-source multi-label image database
-- [ImageNet](http://image-net.org/): an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.
-- [MNIST](http://yann.lecun.com/exdb/mnist/): a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
-
 ## Cheat 
 
 - [Python CheatSHeet](https://github.com/gto76/python-cheatsheet): a comprehensive Python Cheatsheet
