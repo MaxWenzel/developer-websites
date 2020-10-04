@@ -118,6 +118,10 @@ Useful websites for developers
 - [Coding love](https://thecodinglove.com/)
 - [Dilbert](https://dilbert.com/)
 
+## For JavaScript developers
+
+- [Epic React Course](https://kentcdodds.com/courses/):
+
 ## For Java developers
 
 - [Java Design Patterns](https://java-design-patterns.com/): Design patterns implemented in Java
