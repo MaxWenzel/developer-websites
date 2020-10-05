@@ -36,6 +36,10 @@ Useful websites for developers
 - [Google Best Practices for Java Libraries](https://jlbp.dev/)
 - [Microsoft API Design](https://docs.microsoft.com/azure/architecture/microservices/design/api-design)
 
+## Styleguide
+
+- [Google Language Styleguide](https://google.github.io/styleguide/)
+
 ## Validation
 
 - [Regex 101](https://regex101.com/): online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript
