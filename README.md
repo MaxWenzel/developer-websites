@@ -10,6 +10,7 @@ Useful websites for developers
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
 
+
 ## Open API
 
 - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): hosts critical components of the global technology infrastructure.
@@ -61,6 +62,8 @@ Useful websites for developers
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights): make your web pages fast on all devices
 - [GTmetrix](gtmetrix.com): analize the loading speed
 - [WebpageTest](https://www.webpagetest.org/): run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds
+- [ESBench](https://esbench.com/): shareable modern JavaScript Benchmarking
+- [JSBench](https://jsbench.me/): shareable modern JavaScript Benchmarking
 
 ## Study & Tutorials
 
