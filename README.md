@@ -9,6 +9,8 @@ Useful websites for developers
 - [JSON Web Tokens](https://jwt.io/): allows you to decode, verify and generate JWT
 - [JSON Formatter](https://jsonformatter.org/): JSON formatting
 - [codepen](https://codepen.io/): discover and test code
+- [ngrok](https://ngrok.com/): public URLs for localhost
+- [jsonplaceholder](http://jsonplaceholder.typicode.com/): free to use fake online REST API for testing and prototyping
 
 
 ## Open API
@@ -45,6 +47,7 @@ Useful websites for developers
 
 - [Regex 101](https://regex101.com/): online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript
 - [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts
+- [iHateRegex](https://ihateregex.io/): ready to use regex
 
 
 ## Architecture & More 
@@ -93,12 +96,14 @@ Useful websites for developers
 - [Git Interactive](https://ndpsoftware.com/git-cheatsheet.html)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Images
+## Images and Fonts
 
 - [Unsplash](https://unsplash.com/): the internet’s source of freely-usable images.
 - [pixabay](https://pixabay.com/): free images 
 - [Pexels](https://www.pexels.com/): free images
 - [Font awesome](https://fontawesome.com/): Get vector icons and social logos on your website
+- [drawkit](https://www.drawkit.io/): beautiful, free illustrations
+- [fontflipper](https://fontflipper.com/): find free fonts
 
 ## Blogs and more
 
