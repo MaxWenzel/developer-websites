@@ -82,6 +82,7 @@ Useful websites for developers
 - [Baeldung](https://www.baeldung.com/): Java online courses
 - [Vlad Mihalcea](https://vladmihalcea.com/): JPA
 - [Mozilla Developer Network ](https://developer.mozilla.org/en-US/docs/Learn): learn web development
+- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Codecademy](https://www.codecademy.com/): learning to Code
 - [KataCoda](https://www.katacoda.com/): learning new technologies using real environments right in your browser
 - [Learning Git](https://learngitbranching.js.org/): the most visual and interactive way to learn Git on the web
@@ -89,6 +90,8 @@ Useful websites for developers
 - [CodingBat](https://codingbat.com/java): code practice
 - [JetBrains Academy](https://www.jetbrains.com/academy/): learn to Program by creating working applications
 - [TestAutomation University](https://testautomationu.applitools.com/): learning test automation
+- [javascript.info](https://javascript.info/): modern JavaScript Tutorial
+- [javascript30](https://javascript30.com/): 30 Day Vanilla JS Coding Challenge
 
 ## Cheat 
 
