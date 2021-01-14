@@ -135,7 +135,8 @@ Useful websites for developers
 
 ## For JavaScript developers
 
-- [Epic React Course](https://kentcdodds.com/courses/):
+- [Epic React Course](https://kentcdodds.com/courses/)
+- [JavaScript Tech Radar](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
 
 ## For Java developers
 
@@ -144,6 +145,12 @@ Useful websites for developers
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
 - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
 - [Awesome-Spring](https://github.com/ThomasVitale/awesome-spring): a curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
+
+### Spring Boot
+
+- [Exception Handling](https://reflectoring.io/spring-boot-exception-handling/): Complete Guide to Exception Handling in Spring Boot
+- [Best practices](https://piotrminkowski.com/2019/12/06/spring-boot-best-practices-for-microservices/): Spring Boot Best Practices for Microservices
+- [Tips and Tricks](https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/): Spring Boot Tips, Tricks and Techniques
 
 ## Tutorials
 
