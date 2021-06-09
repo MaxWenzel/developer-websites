@@ -66,6 +66,7 @@ Useful websites for developers
 - [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
+- [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Principles of OOD from Uncle Bob
 
 
 ## Site Check
