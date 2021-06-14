@@ -6,6 +6,8 @@ Useful websites for developers
 - [Codecov](https://about.codecov.io/): gives companies actionable coverage insights when and where they need them to ensure they are shipping quality code.
 - [Travis](https://travis-ci.org/): test and deploy
 - [Heroku](https://www.heroku.com/): build data-driven apps with fully managed data services.
+- [Deps](https://deps.dev/): understand your dependencies
+- [Gitpod](https://www.gitpod.io/): a container-based development platform that puts developer experience first. Gitpod provisions ready-to-code development environments in the cloud accessible through your browser and your local IDE (stay tuned for a blog post with more details on that).
 
 ## Web-Development
 
