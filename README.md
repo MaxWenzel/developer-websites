@@ -69,7 +69,7 @@ Useful websites for developers
 - [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
 - [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Principles of OOD from Uncle Bob
-
+- [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 
 ## Site Check
 
