@@ -127,7 +127,7 @@ Useful websites for developers
 - [InfoQ](https://www.infoq.com/): curated and peer-reviewed content covering innovation in professional software development.
 - [DZone](https://dzone.com/): Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts.
 - [JavaRevisited](https://javarevisited.blogspot.com/): Blog about Java, Programming, Spring, Hibernate, Interview Questions, Books and Online Course Recommendations from Udemy, Pluralsight, ..
-- [JpurnalDev](https://www.journaldev.com/): Java, Java EE, Android, Python, Web Development Tutorials.
+- [JournalDev](https://www.journaldev.com/): Java, Java EE, Android, Python, Web Development Tutorials.
 - [Java Code Geeks](https://www.javacodegeeks.com/): an independent online community focused on creating the ultimate Java to Java developers resource center.
 - [Inside Java](https://inside.java/): News and views from the Java team at Oracle
 
@@ -138,6 +138,7 @@ Useful websites for developers
 - [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
 - [Josh Long](https://joshlong.com/): Spring Advocate
 - [Martin Fowler](https://martinfowler.com/bliki/): Must-read blog
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [Dev.to](https://dev.to/): A constructive and inclusive social network. Open source and radically transparent.
 
 ## Fun
