@@ -71,6 +71,10 @@ Useful websites for developers
 - [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Principles of OOD from Uncle Bob
 - [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 
+## Scrum
+
+- [The Scrum Master Checklist](https://scrummasterchecklist.org/): an example list of things a Scrum Master should pay attention to in a typical organization.
+
 ## Site Check
 
 - [Lighthouse](https://web.dev/measure/): see how well your website performs. Then, get tips to improve your user experience 
