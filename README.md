@@ -45,6 +45,10 @@ Useful websites for developers
 - [Zalando](https://opensource.zalando.com/tech-radar/)
 - [ThoughtWorks](https://www.thoughtworks.com/radar)
 
+## Misc
+
+- [Github: State of Development](https://octoverse.github.com/)
+
 ## Best Practice
 
 - [Google Best Practices for Java Libraries](https://jlbp.dev/)
