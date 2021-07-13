@@ -148,6 +148,8 @@ Useful websites for developers
 - [Martin Fowler](https://martinfowler.com/bliki/): Must-read blog
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [Dev.to](https://dev.to/): A constructive and inclusive social network. Open source and radically transparent.
+- [Wix engineering blog](https://www.wix.engineering/): about architecture, scaling, mobile and web development,
+management and more
 
 ## Fun
 
