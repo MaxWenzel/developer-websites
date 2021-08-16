@@ -163,6 +163,7 @@ management and more
 
 ## For Java developers
 
+- [Design Patterns: The Catalog of Java Examples](https://refactoring.guru/design-patterns/java)
 - [Java Design Patterns](https://java-design-patterns.com/): Design patterns implemented in Java
 - [Design Patterns](https://sourcemaking.com/): design patterns and anti patterns
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
