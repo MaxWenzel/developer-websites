@@ -8,6 +8,7 @@ Useful websites for developers
 - [Heroku](https://www.heroku.com/): build data-driven apps with fully managed data services.
 - [Deps](https://deps.dev/): understand your dependencies
 - [Gitpod](https://www.gitpod.io/): a container-based development platform that puts developer experience first. Gitpod provisions ready-to-code development environments in the cloud accessible through your browser and your local IDE (stay tuned for a blog post with more details on that).
+- [Free Developer Stuff](https://freestuff.dev/): Free Stuff/Tool/Service for Developer
 
 ## Web-Development
 
