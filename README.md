@@ -139,6 +139,7 @@ Useful websites for developers
 - [JournalDev](https://www.journaldev.com/): Java, Java EE, Android, Python, Web Development Tutorials.
 - [Java Code Geeks](https://www.javacodegeeks.com/): an independent online community focused on creating the ultimate Java to Java developers resource center.
 - [Inside Java](https://inside.java/): News and views from the Java team at Oracle
+- [Piotr's TechBlog](https://piotrminkowski.com/): Java, Spring, Kotlin, microservices, Kubernetes, containers
 
 
 ### Misc
