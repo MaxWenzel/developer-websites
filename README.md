@@ -195,6 +195,6 @@ management and more
 ## htmx Knowledge
 
 - [Spring Boot & htmx Demo](https://github.com/wiverson/htmx-demo): provide dynamic, rich application functionality without complex tools or JavaScript frameworks.
-- []():
+- [Spring Boot Hotwire integration](https://github.com/odrotbohm/spring-playground/tree/main/hotwire-spring-boot): Hotwire can be used just fine with Spring Boot out of the box. However, as a couple of examples have shown, it usually requires a bit of boilerplate code to be written on the server side. This library attempts to remove that boilerplate code by providing a few Spring MVC extensions that make it easy to use Thymeleaf templates and template fragments as Turbo Streams.
 - []():
 - []():
