@@ -191,3 +191,10 @@ management and more
 ## Podcasts
 
 - [Programming-Love](https://programming.love/): Lovely Podcast About Programming
+
+## htmx Knowledge
+
+- [Spring Boot & htmx Demo](https://github.com/wiverson/htmx-demo): provide dynamic, rich application functionality without complex tools or JavaScript frameworks.
+- []():
+- []():
+- []():
