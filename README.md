@@ -167,6 +167,7 @@ management and more
 
 - [Design Patterns: The Catalog of Java Examples](https://refactoring.guru/design-patterns/java)
 - [Java Design Patterns](https://java-design-patterns.com/): Design patterns implemented in Java
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 - [Design Patterns](https://sourcemaking.com/): design patterns and anti patterns
 - [RealWorld-Apps](https://github.com/gothinkster/realworld): see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends
 - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java): a curated list of awesome Java frameworks, libraries and software
@@ -177,6 +178,8 @@ management and more
 - [Exception Handling](https://reflectoring.io/spring-boot-exception-handling/): Complete Guide to Exception Handling in Spring Boot
 - [Best practices](https://piotrminkowski.com/2019/12/06/spring-boot-best-practices-for-microservices/): Spring Boot Best Practices for Microservices
 - [Tips and Tricks](https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/): Spring Boot Tips, Tricks and Techniques
+- [Spring Boot Tutorials](https://github.com/RameshMF/spring-boot-tutorial): 100+ Spring Boot Articles, Tutorials, Video tutorials, Projects, Guides, Source code examples etc
+- [Spring Boot](https://github.com/Spring-Boot-Framework): Best of Spring Boot Based Projects' Repositories
 
 ## Tutorials
 
