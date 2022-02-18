@@ -49,6 +49,7 @@ Useful websites for developers
 ## Misc
 
 - [Github: State of Development](https://octoverse.github.com/)
+- [A great day out with kafka](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io)
 
 ## Best Practice
 
