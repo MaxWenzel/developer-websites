@@ -141,6 +141,7 @@ Useful websites for developers
 - [Java Code Geeks](https://www.javacodegeeks.com/): an independent online community focused on creating the ultimate Java to Java developers resource center.
 - [Inside Java](https://inside.java/): News and views from the Java team at Oracle
 - [Piotr's TechBlog](https://piotrminkowski.com/): Java, Spring, Kotlin, microservices, Kubernetes, containers
+- [Reflectoring](https://reflectoring.io/): Software development tutorials, thoughts about the software craft, and tips on how to grow as a software engineer.
 
 ### News
 
