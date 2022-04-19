@@ -71,6 +71,7 @@ Useful websites for developers
 ## Architecture & More 
 
 - [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
 - [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
