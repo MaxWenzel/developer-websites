@@ -70,7 +70,6 @@ Useful websites for developers
 
 ## Architecture & More 
 
-- [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
 - [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
@@ -82,6 +81,14 @@ Useful websites for developers
 - [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
+
+### API Design
+
+- [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [The Ion Hypermedia Type](https://ionspec.org/): an intuitive JSON-based hypermedia type for REST.
+- [Design Guidelines](http://apistylebook.com/design/guidelines/): several guidelines
+- [API Stylebook](http://apistylebook.com/): aims to help API Designers to solve API design matters and build their API design guidelines by providing quick and easy access to selected and categorized resources.
 
 ## Scrum
 
