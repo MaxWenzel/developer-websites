@@ -89,6 +89,8 @@ Useful websites for developers
 - [Managing Architecture Decision Records with ADR-Tools](https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/#more-1500)
 - [ArchiMate](https://pubs.opengroup.org/architecture/archimate3-doc/): Architecture modeling language, a visual language with a set of default iconography for describing, analyzing, and communicating many concerns of Enterprise Architectures as they change over time. 
 - [arc42](https://arc42.org/): arc42 template for architecture documentation.
+- [Risk Storming](https://riskstorming.com/): a visual and collaborative risk identification technique
+- [Event Storming](https://www.eventstorming.com/): a flexible workshop format for collaborative exploration of complex business domains.
 
 ### API Design
 
