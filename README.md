@@ -82,6 +82,14 @@ Useful websites for developers
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
 
+### Tooling
+
+- [C4 model](https://c4model.com/): C4 model for visualising software architecture
+- [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
+- [Managing Architecture Decision Records with ADR-Tools](https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/#more-1500)
+- [ArchiMate](https://pubs.opengroup.org/architecture/archimate3-doc/): Architecture modeling language, a visual language with a set of default iconography for describing, analyzing, and communicating many concerns of Enterprise Architectures as they change over time. 
+- [arc42](https://arc42.org/): arc42 template for architecture documentation.
+
 ### API Design
 
 - [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
