@@ -82,6 +82,10 @@ Useful websites for developers
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
 
+### Skills
+
+- [Elastic Leadership](https://www.elasticleadership.com/):  a set of values, techniques, and practices to use in your leadership role.
+
 ### Tooling
 
 - [C4 model](https://c4model.com/): C4 model for visualising software architecture
