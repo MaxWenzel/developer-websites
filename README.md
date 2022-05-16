@@ -46,6 +46,10 @@ Useful websites for developers
 - [Zalando](https://opensource.zalando.com/tech-radar/)
 - [ThoughtWorks](https://www.thoughtworks.com/radar)
 
+## Culture
+
+- [Netflix Culture — Seeking ExcellenceNetflix Culture — Seeking Excellence](https://jobs.netflix.com/culture): document about that the Netflix culture
+
 ## Misc
 
 - [Github: State of Development](https://octoverse.github.com/)
