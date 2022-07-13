@@ -111,6 +111,8 @@ Useful websites for developers
 
 ## Scrum
 
+- [Scrum-Guide](https://www.scrum.org/resources/scrum-guide): The current Scrumguide
+- [Scrum Games and Techniques](https://www.tastycupcakes.org/): Games, techniques, and approaches
 - [The Scrum Master Checklist](https://scrummasterchecklist.org/): an example list of things a Scrum Master should pay attention to in a typical organization.
 
 ## Site Check
