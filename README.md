@@ -243,6 +243,15 @@ management and more
 
 ## Articles
 
+- [Package by Feature / Package by Layer](http://www.javapractices.com/topic/TopicAction.do?Id=205)
+- [Field Injection](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+- [Component Based Entities](http://www.heise.de/developer/artikel/Component-Based-Entity-Systems-in-Spielen-2262126.html)
+- [CQRS and Event-Sourcing](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+- [MicroService Websites](https://github.com/gustafnk/microservice-websites)
+- [building-a-shop-with-sub-second-page-loads](https://medium.baqend.com/building-a-shop-with-sub-second-page-loads-lessons-learned-4bb1be3ed07#.dgp7h3bsd)
+- [Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
+- [Event Architecture](http://daviddawson.me/blog/2017/07/10/styles-of-event-architecture.html)
+- [ORM Vietnam](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
 - [End-to-end tracing with OpenTelemetry](https://blog.frankel.ch/end-to-end-tracing-opentelemetry/)
 - [Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
