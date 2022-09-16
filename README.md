@@ -192,6 +192,7 @@ Useful websites for developers
 - [Dev.to](https://dev.to/): A constructive and inclusive social network. Open source and radically transparent.
 - [Wix engineering blog](https://www.wix.engineering/): about architecture, scaling, mobile and web development,
 management and more
+- [Uber Blog](https://www.uber.com/en-GB/blog/)
 
 ## Fun
 
@@ -239,5 +240,18 @@ management and more
 
 - [Spring Boot & htmx Demo](https://github.com/wiverson/htmx-demo): provide dynamic, rich application functionality without complex tools or JavaScript frameworks.
 - [Spring Boot Hotwire integration](https://github.com/odrotbohm/spring-playground/tree/main/hotwire-spring-boot): Hotwire can be used just fine with Spring Boot out of the box. However, as a couple of examples have shown, it usually requires a bit of boilerplate code to be written on the server side. This library attempts to remove that boilerplate code by providing a few Spring MVC extensions that make it easy to use Thymeleaf templates and template fragments as Turbo Streams.
-- []():
-- []():
+
+## Articles
+
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
+- [End-to-end tracing with OpenTelemetry](https://blog.frankel.ch/end-to-end-tracing-opentelemetry/)
+- [Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
+- [The Case Against Logging](https://blog.sebastian-daschner.com/entries/the-case-against-logging)
+- [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems](https://www.infoq.com/articles/change-data-capture-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)
+- [Wiring up Micronaut, jOOQ, Flyway and Testcontainers with R2DBC](https://akobor.me/posts/wiring-up-micronaut-jooq-flyway-and-testcontainers-with-r2dbc)
+
+### API Design
+
+- [Best Practices for Building Reliable APIs](https://api7.ai/blog/best-practices-for-building-reliable-apis-with-api-gateways/)
+- [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
+
