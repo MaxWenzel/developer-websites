@@ -194,6 +194,10 @@ Useful websites for developers
 management and more
 - [Uber Blog](https://www.uber.com/en-GB/blog/)
 
+### SQL
+
+- [SQl 4 Devs](https://sqlfordevs.com/): a better understanding of SQL changes the database black box perception to a time saver reducing development effort.
+
 ## Fun
 
 - [Coding love](https://thecodinglove.com/)
