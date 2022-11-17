@@ -59,8 +59,23 @@ Useful websites for developers
 
 ## Best Practice
 
-- [Google Best Practices for Java Libraries](https://jlbp.dev/)
+### API-Design
+
 - [Microsoft API Design](https://docs.microsoft.com/azure/architecture/microservices/design/api-design)
+- [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [The Ion Hypermedia Type](https://ionspec.org/): an intuitive JSON-based hypermedia type for REST.
+- [Design Guidelines](http://apistylebook.com/design/guidelines/): several guidelines
+- [API Stylebook](http://apistylebook.com/): aims to help API Designers to solve API design matters and build their API design guidelines by providing quick and easy access to selected and categorized resources.
+
+### Post-Mortem-Analyse
+
+- [Post Mortem Analyse](https://www.atlassian.com/de/incident-management/postmortem): Post-Mortem-Analyse at Atlassian
+- [Postmortem culture](https://sre.google/sre-book/postmortem-culture/): Postmortem Culture: Learning from Failure at Google
+- [5 Whys](https://www.atlassian.com/wac/team-playbook/plays/5-whys?): Analyse at Atlassian
+- [Postmortem action items](https://www.usenix.org/system/files/login/articles/login_spring17_09_lunney.pdf)
+- [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
+- [What is post-mortem?](https://www.atlassian.com/de/incident-management/handbook/postmortems#what-is-post-mortem)
 
 ## Styleguide
 
@@ -101,13 +116,6 @@ Useful websites for developers
 - [Risk Storming](https://riskstorming.com/): a visual and collaborative risk identification technique
 - [Event Storming](https://www.eventstorming.com/): a flexible workshop format for collaborative exploration of complex business domains.
 
-### API Design
-
-- [Google Best Practices for Java Libraries](https://jlbp.dev/): Google Best Practices for Java Libraries are rules that minimize problems for consumers of interconnected Java libraries.
-- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-- [The Ion Hypermedia Type](https://ionspec.org/): an intuitive JSON-based hypermedia type for REST.
-- [Design Guidelines](http://apistylebook.com/design/guidelines/): several guidelines
-- [API Stylebook](http://apistylebook.com/): aims to help API Designers to solve API design matters and build their API design guidelines by providing quick and easy access to selected and categorized resources.
 
 ## Scrum
 
