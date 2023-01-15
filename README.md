@@ -67,6 +67,7 @@ Useful websites for developers
 - [The Ion Hypermedia Type](https://ionspec.org/): an intuitive JSON-based hypermedia type for REST.
 - [Design Guidelines](http://apistylebook.com/design/guidelines/): several guidelines
 - [API Stylebook](http://apistylebook.com/): aims to help API Designers to solve API design matters and build their API design guidelines by providing quick and easy access to selected and categorized resources.
+- [Google API Improvement Proposals](https://google.aip.dev/): AIPs are design documents that summarize Google's API design decisions. They also provide a framework and system for others to document their own API design rules and practices.
 
 ### Post-Mortem-Analyse
 
