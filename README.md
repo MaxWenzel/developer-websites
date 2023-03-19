@@ -102,6 +102,7 @@ Useful websites for developers
 - [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
+- [Recommendation](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
 
 ### Skills
 
