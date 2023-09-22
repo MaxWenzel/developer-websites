@@ -1,6 +1,17 @@
 # developer-websites
 Useful websites for developers
 
+## Databases
+
+- [DB-Engines Ranking](https://db-engines.com/de/ranking)
+- [MongoDB University](https://learn.mongodb.com/)
+
+### Papers
+
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+- [Spanner: Google's Globally-Distributed Database](https://research.google.com/archive/spanner-osdi2012.pdf)
+- [The Vietnam of Computer Science](https://www.odbms.org/wp-content/uploads/2013/11/031.01-Neward-The-Vietnam-of-Computer-Science-June-2006.pdf)
+
 ## Development
 
 - [Codecov](https://about.codecov.io/): gives companies actionable coverage insights when and where they need them to ensure they are shipping quality code.
