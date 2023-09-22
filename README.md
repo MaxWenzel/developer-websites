@@ -68,6 +68,9 @@ Useful websites for developers
 - [Design Guidelines](http://apistylebook.com/design/guidelines/): several guidelines
 - [API Stylebook](http://apistylebook.com/): aims to help API Designers to solve API design matters and build their API design guidelines by providing quick and easy access to selected and categorized resources.
 - [Google API Improvement Proposals](https://google.aip.dev/): AIPs are design documents that summarize Google's API design decisions. They also provide a framework and system for others to document their own API design rules and practices.
+- [Best Practices for Building Reliable APIs](https://api7.ai/blog/best-practices-for-building-reliable-apis-with-api-gateways/)
+- [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
+- [Monetization with Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/monetization-overview)
 
 ### Post-Mortem-Analyse
 
@@ -273,8 +276,4 @@ management and more
 - [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems](https://www.infoq.com/articles/change-data-capture-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)
 - [Wiring up Micronaut, jOOQ, Flyway and Testcontainers with R2DBC](https://akobor.me/posts/wiring-up-micronaut-jooq-flyway-and-testcontainers-with-r2dbc)
 
-### API Design
-
-- [Best Practices for Building Reliable APIs](https://api7.ai/blog/best-practices-for-building-reliable-apis-with-api-gateways/)
-- [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 
