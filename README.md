@@ -118,6 +118,7 @@ Useful websites for developers
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
 - [Recommendation](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
+- [On Pair-Programming](https://martinfowler.com/articles/on-pair-programming.html)
 
 ### Skills
 
