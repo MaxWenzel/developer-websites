@@ -121,6 +121,7 @@ Useful websites for developers
 - [On Pair-Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - [Sliced Onion Architecture](http://odrotbohm.github.io/2023/07/sliced-onion-architecture/)
+- [CUPID—for joyful coding]{https://dannorth.net/cupid-for-joyful-coding/}
 
 ### Skills
 
