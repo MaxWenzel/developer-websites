@@ -123,6 +123,7 @@ Useful websites for developers
 - [Sliced Onion Architecture](http://odrotbohm.github.io/2023/07/sliced-onion-architecture/)
 - [CUPID—for joyful coding](https://dannorth.net/cupid-for-joyful-coding/)
 - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
+- [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 
 ### Skills
 
