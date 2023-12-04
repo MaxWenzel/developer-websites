@@ -82,6 +82,7 @@ Useful websites for developers
 - [Best Practices for Building Reliable APIs](https://api7.ai/blog/best-practices-for-building-reliable-apis-with-api-gateways/)
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Monetization with Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/monetization-overview)
+- [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 
 ### Post-Mortem-Analyse
 
