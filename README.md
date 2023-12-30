@@ -6,6 +6,10 @@ Useful websites for developers
 - [DB-Engines Ranking](https://db-engines.com/de/ranking)
 - [MongoDB University](https://learn.mongodb.com/)
 
+## Big Data
+
+- [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
+
 ### Papers
 
 - [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
