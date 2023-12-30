@@ -110,6 +110,7 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
