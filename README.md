@@ -131,12 +131,19 @@ Useful websites for developers
 - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 
+### Code Quality
+
+- [Increasing, not Diminishing: Investigating the Returns of Highly Maintainable Code](https://arxiv.org/abs/2401.13407)
+- [I Know What You Did Last Summer -- An Investigation of How Developers Spend Their Time](https://www.researchgate.net/publication/293813040_I_Know_What_You_Did_Last_Summer_--_An_Investigation_of_How_Developers_Spend_Their_Time)
+- [Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv.org/abs/2203.04374)
+
 ### Skills
 
 - [Elastic Leadership](https://www.elasticleadership.com/):  a set of values, techniques, and practices to use in your leadership role.
 
 ### Tooling
 
+- [CodeScene](https://codescene.com/)
 - [C4 model](https://c4model.com/): C4 model for visualising software architecture
 - [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
 - [Managing Architecture Decision Records with ADR-Tools](https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/#more-1500)
