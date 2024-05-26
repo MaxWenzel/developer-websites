@@ -228,6 +228,7 @@ Useful websites for developers
 
 ### Misc
 
+- [Blog von Werner VOgel (CTO Amazon)](https://www.allthingsdistributed.com/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Oliver Drotbohm](http://olivergierke.de/): Java and Architecture best practice
 - [Josh Long](https://joshlong.com/): Spring Advocate
