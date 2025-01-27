@@ -131,6 +131,7 @@ Useful websites for developers
 - [CUPID—for joyful coding](https://dannorth.net/cupid-for-joyful-coding/)
 - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
+- [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 
 ### Code Quality
 
