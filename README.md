@@ -87,6 +87,7 @@ Useful websites for developers
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Monetization with Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/monetization-overview)
 - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
+- [How to Design a Good API and Why it Matters (Joshua Bloch)](https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf)
 
 ### Post-Mortem-Analyse
 
@@ -107,6 +108,9 @@ Useful websites for developers
 - [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts
 - [iHateRegex](https://ihateregex.io/): ready to use regex
 
+## Quality
+
+- [arc42 Quality Model](https://quality.arc42.org/)
 
 ## Architecture, Clean Code & More 
 
