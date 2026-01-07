@@ -298,6 +298,7 @@ management and more
 
 ## Articles
 
+- [Remote Mob Programming](https://www.remotemobprogramming.org/)
 - [Package by Feature / Package by Layer](http://www.javapractices.com/topic/TopicAction.do?Id=205)
 - [Field Injection](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
 - [Component Based Entities](http://www.heise.de/developer/artikel/Component-Based-Entity-Systems-in-Spielen-2262126.html)
