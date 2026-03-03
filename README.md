@@ -115,15 +115,17 @@ Useful websites for developers
 ## Architecture, Clean Code & More 
 
 - [DataOps Principles](https://dataopsmanifesto.org/en/)
+- [The Data Journey Manifesto](https://datajourneymanifesto.org/)
+- [A DevOps Manifesto](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
+- [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
 - [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
-- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-- [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
-- [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
 - [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Principles of OOD from Uncle Bob
 - [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
