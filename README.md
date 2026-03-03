@@ -114,6 +114,8 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [AWS Well-Architected and the Six Pillars](https://aws.amazon.com/architecture/well-architected/)
+- [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it?hl=en)
 - [DataOps Principles](https://dataopsmanifesto.org/en/)
 - [The Data Journey Manifesto](https://datajourneymanifesto.org/)
 - [A DevOps Manifesto](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
