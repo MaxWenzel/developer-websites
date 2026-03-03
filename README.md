@@ -114,6 +114,7 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [DataOps Principles](https://dataopsmanifesto.org/en/)
 - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
