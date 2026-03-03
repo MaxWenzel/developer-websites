@@ -114,6 +114,7 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
 - [AWS Well-Architected and the Six Pillars](https://aws.amazon.com/architecture/well-architected/)
 - [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it?hl=en)
 - [DataOps Principles](https://dataopsmanifesto.org/en/)
