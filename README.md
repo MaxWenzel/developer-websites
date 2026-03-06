@@ -144,6 +144,11 @@ Useful websites for developers
 - [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 
+## Logging
+
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [The Case Against Logging](https://blog.sebastian-daschner.com/entries/the-case-against-logging)
+
 ### Code Quality
 
 - [Increasing, not Diminishing: Investigating the Returns of Highly Maintainable Code](https://arxiv.org/abs/2401.13407)
