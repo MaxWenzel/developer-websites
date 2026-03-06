@@ -142,12 +142,13 @@ Useful websites for developers
 - [CUPID—for joyful coding](https://dannorth.net/cupid-for-joyful-coding/)
 - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
-- [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 
 ## Logging
 
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [The Case Against Logging](https://blog.sebastian-daschner.com/entries/the-case-against-logging)
+- [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 
 ### Code Quality
 
