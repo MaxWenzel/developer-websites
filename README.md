@@ -114,6 +114,7 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [Why we moved from Apache Kafka to Apache Pulsar](https://streamnative.io/blog/moved-from-apache-kafka-to-apache-pulsar)
 - [Disasters I've seen in a microservices world](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51)
 - [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
 - [AWS Well-Architected and the Six Pillars](https://aws.amazon.com/architecture/well-architected/)
