@@ -114,6 +114,7 @@ Useful websites for developers
 
 ## Architecture, Clean Code & More 
 
+- [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/research/why-google-stores-billions-of-lines-of-code-in-a-single-repository/#:~:text=A%20single%20repository%20provides%20unified,can%20depend%20on%20it%20directly.)
 - [Why we moved from Apache Kafka to Apache Pulsar](https://streamnative.io/blog/moved-from-apache-kafka-to-apache-pulsar)
 - [Disasters I've seen in a microservices world](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51)
 - [The Bezos API Mandate: Amazon’s Manifesto For Externalization](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
