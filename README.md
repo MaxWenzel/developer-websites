@@ -140,6 +140,7 @@ Useful websites for developers
 
 ## Manifests
 
+- [The Rugged Manifesto](https://ruggedsoftware.org/)
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [The Data Journey Manifesto](https://datajourneymanifesto.org/)
 - [A DevOps Manifesto](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
