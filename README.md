@@ -121,20 +121,12 @@ Useful websites for developers
 - [AWS Well-Architected and the Six Pillars](https://aws.amazon.com/architecture/well-architected/)
 - [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it?hl=en)
 - [DataOps Principles](https://dataopsmanifesto.org/en/)
-- [The Data Journey Manifesto](https://datajourneymanifesto.org/)
-- [A DevOps Manifesto](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
-- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-- [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
-- [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
-- [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
-- [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [The Reactive Principles](https://principles.reactive.foundation/principles/index.html)
 - [Architectural Decision Records](https://adr.github.io/): a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
 - [Microservice Architecture](https://microservices.io/patterns/microservices.html): Pattern: Microservice Architecture
 - [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Principles of OOD from Uncle Bob
-- [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 - [Coding the architecture](http://www.codingthearchitecture.com/): Architecture blog
 - [Microservice Architecture Patterns](https://microservices.io/patterns/microservices.html): Microservice Architecture
 - [Recommendation](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
@@ -145,6 +137,18 @@ Useful websites for developers
 - [Patterns for Decoupling in Distributed Systems: Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
+
+## Manifests
+
+- [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+- [The Data Journey Manifesto](https://datajourneymanifesto.org/)
+- [A DevOps Manifesto](https://theagileadmin.com/2010/10/15/a-devops-manifesto/)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [The Twelve-Factor App](https://12factor.net/):  a methodology for building software-as-a-service apps
+- [Agile Manifesto](https://agilemanifesto.org/): https://agilemanifesto.org/
+- [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+- [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+- [A Manifesto for 21st-Century IT](https://interactpoint.net/blogpost10-A-Manifesto-for-21st-Century-IT): What are the essential characteristics of this new kind of IT?
 
 ## Logging
 
