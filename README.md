@@ -47,6 +47,10 @@ Useful websites for developers
 - [OpenEBS](https://openebs.io/): OpenEBS builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. 
 
 
+### Example OpenAPI documents
+
+- [Bucketlist.nl Dream of the Day OpenAPI](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json): English OpenAPI 3.1 documentation for an unauthenticated daily-experience JSON endpoint from the Dutch-language Bucketlist.nl platform.
+
 ## Security
 
 - [Common Waekness Enumeration](https://cwe.mitre.org/index.html): a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.
